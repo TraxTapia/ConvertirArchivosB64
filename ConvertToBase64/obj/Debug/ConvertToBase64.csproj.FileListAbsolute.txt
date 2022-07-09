@@ -1,0 +1,7 @@
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\ConvertToBase64.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\ConvertToBase64.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\ConvertToBase64.exe.config
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\ConvertToBase64.exe
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\ConvertToBase64.pdb
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\ConvertToBase64.exe
+C:\Users\ivan.tapia\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\ConvertToBase64.pdb
